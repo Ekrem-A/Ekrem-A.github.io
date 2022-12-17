@@ -1,0 +1,57 @@
+.card{
+    text-align: center;
+    margin-left: 500px;
+    background-color:green;
+    color: aliceblue;
+
+}
+.ben{
+    width: 100px;
+    height: 300px;
+}
+body{
+    background-color: yellow;
+}
+
+.form-control{
+    text-align: center;
+    box-sizing: border-box;
+    border-width: 20px;
+    
+}
+
+.mb-3{
+    width: 400px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
+
+.ytb{
+    width: 25px;
+    height: 25px;
+}
+
+.iletişim{
+    border-style: groove;
+    width: 500px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 20px;
+    background-color: green;
+    color: aliceblue;
+}
+
+.harita{
+    margin-left: 500px;
+}
+
+.container-fluid{
+    background-color: rgb(214, 75, 241);
+    font-weight: bold;
+}
+
+.navbar-brand{
+    border-style: groove;
+  }
