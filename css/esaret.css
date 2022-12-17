@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+
+.container-fluid{
+    background-color: rgb(214, 75, 241);
+    font-weight: bold;
+}
+
+.navbar-brand{
+    border-style: groove;
+  }
