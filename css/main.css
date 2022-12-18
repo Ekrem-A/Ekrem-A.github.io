@@ -3,115 +3,35 @@ body{
     background-color: yellow;
 }
 
-.esaret{
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.baba1{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-
-}
-
-.kara{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.baba2{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.kızgın{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-
-}
-
-.liste{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.yüzük1{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.ucuz{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 70px;
-}
-
-.yüzük2{
-    width: 250px;
-    height: 350px;
-    margin-top: 50px;
-    margin-left: 345px;
-}
-
-.iyikötü{
-    
-    width: 300px;
-    height: 350px;
-    margin-top: 100px;
-    margin-left: 70px;
-    margin-bottom: 100px;
-    
-}
-
 .container-fluid{
-    background-color: rgb(214, 75, 241);
+    background-color: rgb(241, 122, 75);
     font-weight: bold;
+    height: 80px;
+    font-size: larger;
 }
 
 .başlık{
-    margin-left: 470px;
-}
-.harita{
-    margin: auto;
-}
-
-
-div.gallery {
-    margin: 10px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 220px;
-    margin-left: 30px;
-  }
-  
-  div.gallery:hover {
-    border: 1px solid #777;
-  }
-  
-  div.gallery img {
-    width: 100%;
-    height: auto;
-  }
-  
-  div.desc {
-    padding: 15px;
-    text-align: center;
+    margin-left: 550px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
-  }
+    
+}
 
-  .navbar-brand{
+.navbar-brand{
     border-style: groove;
   }
+
+.breadcrumb{
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: large;
+  }
+
+.carousel{
+    width: 1000px;
+    height: 750px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+

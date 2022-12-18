@@ -1,3 +1,4 @@
+
 body{
     background-color: yellow;
 }
@@ -9,7 +10,15 @@ body{
     font-size: larger;
 }
 
-.navbar-brand{
+.başlık{
+    margin-left: 470px;
+    
+}
+.harita{
+    margin: auto;
+}
+
+  .navbar-brand{
     border-style: groove;
   }
 
@@ -18,3 +27,5 @@ body{
     font-weight: bold;
     font-size: large;
   }
+
+  
