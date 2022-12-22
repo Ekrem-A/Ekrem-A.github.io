@@ -15,7 +15,7 @@ body{
     
 }
 .harita{
-    margin: auto;
+    float:right;
 }
 
   .navbar-brand{
@@ -42,8 +42,8 @@ body{
   }
   
   div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 220px;
+    height: 350px;
   }
   
   div.desc {

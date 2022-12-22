@@ -14,7 +14,7 @@ body{
     margin-left: 460px;
 }
 .harita{
-    margin: auto;
+  float:right;
 }
 
   .navbar-brand{
@@ -31,11 +31,9 @@ body{
     margin: 10px;
     border: 1px solid #ccc;
     float: left;
-    
     width: 220px;
     margin-left: 35px;
     background-color: rgb(241, 122, 75);
-
   }
   
   div.gallery:hover {
@@ -43,8 +41,9 @@ body{
   }
   
   div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 220px;
+    height: 350px;
+
   }
   
   div.desc {

@@ -1,7 +1,7 @@
 .card{
     text-align: center;
     margin-left: 500px;
-    background-color:green;
+    background-color:rgb(241, 122, 75);
     color: aliceblue;
 
 }
@@ -25,7 +25,8 @@ body{
     text-align: center;
     margin-left: 450px;
     margin-top: 50px;
-    border-color: green;
+    border-color: rgb(241, 122, 75);
+    
 
 }
 
@@ -40,8 +41,9 @@ body{
     text-align: center;
     margin-left: 400px;
     margin-top: 20px;
-    background-color: green;
+    background-color: rgb(241, 122, 75);
     color: aliceblue;
+    font-weight: bold;
 }
 
 .harita{
@@ -64,3 +66,11 @@ body{
     font-weight: bold;
     font-size: large;
   }
+
+.form-label{
+    border-style: groove;
+    background-color: rgb(241, 122, 75);
+    font-size: x-large;
+    font-weight: bold;
+    color: aliceblue;
+}
