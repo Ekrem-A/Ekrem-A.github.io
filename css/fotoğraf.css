@@ -18,3 +18,32 @@ body{
     font-weight: bold;
     font-size: large;
   }
+
+  .harita{
+
+    float:right;
+  }
+
+  div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 220px;
+    margin-left: 35px;
+    background-color: rgb(241, 122, 75);
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 218px;
+    height: 345px;
+
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
